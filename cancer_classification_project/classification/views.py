@@ -1,4 +1,5 @@
 import joblib
+from django.shortcuts import render
 
 # Load scaler and label encoder
 scaler = joblib.load('models/scaler.pkl')
@@ -8,3 +9,9 @@ label_encoder = joblib.load('models/label_encoder.pkl')
 def preprocess_for_prediction(input_data):
     input_data_scaled = scaler.transform(input_data)  # Scale input data
     return input_data_scaled
+
+
+def predict_cancer_type(request):
+    # Sample response; replace with your actual view code
+    return render(request, 'classification/index.html')
+
