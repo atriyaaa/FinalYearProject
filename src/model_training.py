@@ -1,16 +1,25 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.metrics import classification_report
 import pandas as pd
-import numpy as np
 import joblib
 import os
 
 def load_and_combine_datasets(folder_path):
+    """
+    Load and combine CSV datasets from a folder, standardizing label columns.
+    
+    Parameters:
+    folder_path (str): Path to the folder containing CSV files.
+    
+    Returns:
+    pd.DataFrame: Combined dataset with standardized label column.
+    """
     all_data = []
     possible_label_columns = ['label', 'target', 'subtype', 'Gene_ID']  # List of possible names for the label column
+
     for file in os.listdir(folder_path):
         if file.endswith(".csv"):
             file_path = os.path.join(folder_path, file)
@@ -21,12 +30,7 @@ def load_and_combine_datasets(folder_path):
                 data.columns = data.columns.str.strip()  # Strip whitespace
 
                 # Find the correct label column in the dataset
-                label_column = None
-                for col in possible_label_columns:
-                    if col in data.columns:
-                        label_column = col
-                        break
-
+                label_column = next((col for col in possible_label_columns if col in data.columns), None)
                 if label_column:
                     print(f"Using '{label_column}' as the label column for {file}")
                     data.rename(columns={label_column: 'label'}, inplace=True)  # Standardize to 'label'
@@ -43,6 +47,15 @@ def load_and_combine_datasets(folder_path):
         raise ValueError("No datasets with a recognized label column were found.")
 
 def load_and_preprocess_data(folder_path):
+    """
+    Load, combine, and preprocess data for training.
+    
+    Parameters:
+    folder_path (str): Path to folder containing datasets.
+    
+    Returns:
+    tuple: Preprocessed training and test sets, scaler, and label encoder.
+    """
     # Load and combine datasets
     data = load_and_combine_datasets(folder_path)
 
@@ -50,8 +63,9 @@ def load_and_preprocess_data(folder_path):
     X = data.drop(columns=['label'])
     y = data['label']
 
-    # Encode the labels if necessary
-    y = y.apply(lambda x: 1 if x == 'positive' else 0)  # Adjust based on your label format
+    # Encode labels for multi-class classification
+    le = LabelEncoder()
+    y = le.fit_transform(y)
 
     # Split data into training and testing sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -61,35 +75,69 @@ def load_and_preprocess_data(folder_path):
     X_train = scaler.fit_transform(X_train)
     X_test = scaler.transform(X_test)
 
-    return X_train, X_test, y_train, y_test, scaler
+    # Save label encoder and scaler for later use
+    joblib.dump(scaler, 'models/scaler.pkl')
+    joblib.dump(le, 'models/label_encoder.pkl')
 
-def train_model(X_train, y_train):
-    model = RandomForestClassifier(random_state=42)
+    return X_train, X_test, y_train, y_test, scaler, le
+
+def train_model(X_train, y_train, model_type='random_forest'):
+    """
+    Train a machine learning model.
+    
+    Parameters:
+    X_train (np.array): Training data features.
+    y_train (np.array): Training data labels.
+    model_type (str): Model type to use ('random_forest' or 'logistic_regression').
+    
+    Returns:
+    model: Trained model.
+    """
+    if model_type == 'random_forest':
+        model = RandomForestClassifier(random_state=42)
+    elif model_type == 'logistic_regression':
+        model = LogisticRegression(max_iter=1000, random_state=42)
+    else:
+        raise ValueError("Unsupported model type. Choose 'random_forest' or 'logistic_regression'.")
+
+    # Optional: Hyperparameter tuning using GridSearchCV (uncomment if needed)
+    # param_grid = {'n_estimators': [50, 100, 200], 'max_depth': [None, 10, 20, 30]}
+    # grid_search = GridSearchCV(model, param_grid, cv=5, scoring='accuracy')
+    # grid_search.fit(X_train, y_train)
+    # model = grid_search.best_estimator_
+
     model.fit(X_train, y_train)
     return model
 
-def save_model(model, scaler):
+def save_model(model):
+    """
+    Save the trained model to disk.
+    
+    Parameters:
+    model: Trained model to save.
+    """
     # Create models directory if it doesn't exist
     if not os.path.exists('models'):
         os.makedirs('models')
 
     # Save the trained model
-    joblib.dump(model, 'models/breast_cancer_model.pkl')
-
-    # Save the scaler
-    joblib.dump(scaler, 'models/scaler.pkl')
+    joblib.dump(model, 'models/cancer_model.pkl')
+    print("Model saved successfully in the models folder.")
 
 if __name__ == '__main__':
     # Specify the folder containing all datasets
     folder_path = 'data'
     
     # Load, combine, and preprocess data
-    X_train, X_test, y_train, y_test, scaler = load_and_preprocess_data(folder_path)
+    X_train, X_test, y_train, y_test, scaler, le = load_and_preprocess_data(folder_path)
 
     # Train the model
-    model = train_model(X_train, y_train)
+    model = train_model(X_train, y_train, model_type='random_forest')
 
     # Save the model and scaler
-    save_model(model, scaler)
+    save_model(model)
 
-    print("Model and scaler saved successfully in the models folder.")
+    # Evaluate model performance
+    y_pred = model.predict(X_test)
+    print("\nModel Evaluation:\n")
+    print(classification_report(y_test, y_pred, target_names=le.classes_))
