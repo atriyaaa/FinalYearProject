@@ -42,6 +42,9 @@ def load_and_combine_datasets(folder_path):
         raise ValueError("No datasets with a recognized label column were found.")
 
 def load_and_preprocess_data(folder_path):
+    # Define the models directory inside the function
+    models_dir = os.path.join(BASE_DIR, 'models')
+
     # Load and combine datasets
     data = load_and_combine_datasets(folder_path)
 
@@ -62,12 +65,12 @@ def load_and_preprocess_data(folder_path):
     X_test = scaler.transform(X_test)
 
     # Ensure the models directory exists
-    if not os.path.exists('models'):
-        os.makedirs('models')
+    if not os.path.exists(models_dir):
+        os.makedirs(models_dir)
 
     # Save label encoder and scaler for later use
-    joblib.dump(scaler, 'models/scaler.pkl')
-    joblib.dump(le, 'models/label_encoder.pkl')
+    joblib.dump(scaler, os.path.join(models_dir, 'scaler.pkl'))
+    joblib.dump(le, os.path.join(models_dir, 'label_encoder.pkl'))
 
     return X_train, X_test, y_train, y_test, scaler, le
 
@@ -83,12 +86,15 @@ def train_model(X_train, y_train, model_type='random_forest'):
     return model
 
 def save_model(model):
-    # Create models directory if it doesn't exist
-    if not os.path.exists('models'):
-        os.makedirs('models')
+    # Define the models directory inside the function
+    models_dir = os.path.join(BASE_DIR, 'models')
+
+    # Ensure the models directory exists
+    if not os.path.exists(models_dir):
+        os.makedirs(models_dir)
 
     # Save the trained model
-    joblib.dump(model, 'models/cancer_model.pkl')
+    joblib.dump(model, os.path.join(models_dir, 'cancer_model.pkl'))
     print("Model saved successfully in the models folder.")
 
 if __name__ == '__main__':
@@ -105,3 +111,13 @@ if __name__ == '__main__':
     y_pred = model.predict(X_test)
     print("\nModel Evaluation:\n")
     print(classification_report(y_test, y_pred, target_names=le.classes_))
+
+import pickle
+
+def save_model(model, scaler, encoder):
+    with open('models/model.pkl', 'wb') as model_file:
+        pickle.dump(model, model_file)
+    with open('models/scaler.pkl', 'wb') as scaler_file:
+        pickle.dump(scaler, scaler_file)
+    with open('models/label_encoder.pkl', 'wb') as encoder_file:
+        pickle.dump(encoder, encoder_file)
