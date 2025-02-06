@@ -1,0 +1,448 @@
+Cancer Type,Subtype,ER Status,PR Status,HER2 Status,Tumour Stage,Smoking,Chemotherapy,Age,Gender
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,84,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,84,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,84,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,84,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,69,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,66,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,66,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,66,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,73,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,73,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,73,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,77,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,77,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,77,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,77,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,77,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,54,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,54,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,54,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,83,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,83,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,83,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,83,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,52,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,52,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,52,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,52,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,78,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,56,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,73,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,73,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,73,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,73,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,75,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,64,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,64,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,64,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,64,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,64,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,64,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,83,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,70,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,62,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,62,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,62,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,85,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,85,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,85,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,85,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,85,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,61,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,61,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,61,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,61,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,61,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,59,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,68,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,76,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,76,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,54,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,54,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,54,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,54,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,54,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,71,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,67,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,74,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,79,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,79,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,79,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,48,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,48,Female
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,82,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,82,Male
+Lung,Invasive adenocarcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,82,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,57,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,68,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,68,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,68,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,68,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,73,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,73,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,73,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,73,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,73,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,73,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,56,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,56,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,56,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,56,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,56,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,56,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,67,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,80,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,80,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,80,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,80,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,75,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,75,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,75,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,58,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,61,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,63,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,72,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,78,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,79,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,81,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,81,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,81,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,81,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,81,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,66,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,65,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,50,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,50,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,50,Female
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,69,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,69,Male
+Lung,Squamous cell carcinoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,69,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,34,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,34,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,34,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,34,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Never Smoked,N/A,34,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,59,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,74,Female
+Lung,Large cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Male
+Lung,Large cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Male
+Lung,Large cell carcinoma,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,76,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Carcinosarcoma,N/A,N/A,N/A,N/A,Current Smoker,N/A,55,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Adenosquamous carcinoma,N/A,N/A,N/A,N/A,Ex-Smoker,N/A,77,Male
+Lung,Large Cell Neuroendocrine,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,49,Female
+Lung,Large Cell Neuroendocrine,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,49,Female
+Lung,Large Cell Neuroendocrine,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,49,Female
+Lung,Large Cell Neuroendocrine,N/A,N/A,N/A,N/A,Recent Ex-Smoker,N/A,49,Female

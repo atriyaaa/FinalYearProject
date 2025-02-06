@@ -1,0 +1,2510 @@
+Cancer Type,Subtype,ER Status,PR Status,HER2 Status,Tumour Stage,Smoking,Chemotherapy,Age,Gender
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,75.65,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.19,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,48.87,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,47.68,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,76.97,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.77,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,56.45,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,70.0,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,89.08,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,76.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,86.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,84.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,85.49,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,70.91,Female
+Breast,N/A,Negative,Positive,Negative,N/A,N/A,YES,45.27,Female
+Breast,N/A,Positive,Positive,Positive,N/A,N/A,NO,83.02,Female
+Breast,N/A,Positive,Positive,Positive,N/A,N/A,YES,51.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,44.64,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,70.02,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.91,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,62.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.58,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,45.43,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,52.14,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,69.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.49,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,51.01,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,68.42,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,50.42,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,49.61,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,64.85,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,43.55,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,80.5,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,78.19,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,51.58,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,68.68,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,51.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,49.87,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,65.59,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,YES,43.15,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.53,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,45.73,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.89,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,36.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.59,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,39.84,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,42.55,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,82.73,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,72.1,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,78.73,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.89,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,43.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.98,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.95,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,YES,52.11,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.4,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,63.53,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,56.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,69.16,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,58.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.09,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.3,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.33,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,85.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.73,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.28,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,53.16,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,77.13,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,70.22,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.7,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,63.77,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,67.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.72,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,60.85,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,71.5,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,50.43,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,51.04,Female
+Breast,N/A,Negative,Positive,Negative,N/A,N/A,NO,36.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.56,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,84.73,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,37.87,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,53.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,44.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.4,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.28,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.57,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,48.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.99,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,59.18,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.51,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,38.78,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,85.94,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,74.63,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,56.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.69,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.84,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,82.65,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,57.79,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,81.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.54,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,56.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.18,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,43.37,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.56,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,69.86,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,49.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,46.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,86.24,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,79.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.56,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,55.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.13,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,67.17,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,63.14,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,NO,42.95,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.63,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,43.39,Female
+Breast,HER2+,Negative,Negative,Negative,N/A,N/A,NO,37.24,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,NO,77.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.31,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,50.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.01,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,59.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.95,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.5,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,41.98,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.57,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.73,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.77,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,52.55,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,YES,43.63,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,52.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.85,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,55.09,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,53.72,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,67.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,45.76,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,53.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.19,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,53.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,57.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.7,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,38.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.26,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.93,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,55.44,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.49,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.93,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,46.44,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,84.88,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.54,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,45.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,29.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,55.36,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.94,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,34.3,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.64,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,52.79,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,51.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.3,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,51.42,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,48.07,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,62.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.54,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Positive,N/A,N/A,YES,55.22,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,75.91,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.92,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,YES,51.19,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,80.34,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,51.62,Female
+Breast,HER2+,Negative,Negative,Negative,N/A,N/A,YES,46.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.13,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,68.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.53,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,47.71,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,84.85,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,60.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.53,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,41.63,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,51.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,89.43,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.38,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.94,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.49,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.52,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,73.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,56.32,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,50.82,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.68,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,58.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,92.14,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,46.86,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,86.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,47.64,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.34,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.73,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.62,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,76.84,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,62.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,90.43,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,79.97,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.96,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,70.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,37.3,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,32.61,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,52.24,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.26,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,49.05,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.53,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,61.32,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,86.26,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,73.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,57.87,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.21,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.58,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,40.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,52.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.24,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,48.67,Female
+Breast,ER-/HER2-,Positive,Negative,Positive,N/A,N/A,NO,76.84,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.74,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,70.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,74.79,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,YES,65.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,64.01,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,78.41,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,39.86,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,63.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,34.68,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,72.69,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.25,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,57.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,48.22,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.9,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,33.65,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,59.05,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.02,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.58,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,66.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Positive,N/A,N/A,YES,46.63,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,YES,46.87,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,40.68,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,61.23,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,56.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,68.74,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.48,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,80.38,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,56.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,56.41,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,68.47,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,55.28,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,48.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.06,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,58.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.71,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,69.32,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,51.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,54.6,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,56.58,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,72.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.22,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.92,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,34.92,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,73.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.1,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,44.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,85.21,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.86,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.61,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.07,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,69.79,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,68.29,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,88.29,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.17,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,57.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.32,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,56.73,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.67,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,40.07,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,56.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,59.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,54.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.2,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.43,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,YES,61.11,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,90.02,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,49.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,85.09,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.44,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,60.5,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.48,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,58.98,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,87.18,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,33.97,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,58.35,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,YES,60.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,67.94,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,61.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.49,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.34,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,54.29,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.15,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,54.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.02,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,33.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,51.86,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,54.22,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,39.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,49.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,YES,38.72,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,60.78,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,57.57,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.36,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,50.64,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,85.21,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,77.22,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,63.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,60.0,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.27,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,50.15,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,36.56,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,48.93,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,56.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.16,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.38,Female
+Breast,ER+/HER2- High Prolif,Negative,Positive,Negative,N/A,N/A,YES,60.74,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.71,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,42.68,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.84,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,56.74,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,42.89,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,62.81,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,61.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.2,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,NO,54.08,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,40.65,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,48.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.18,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,53.64,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,67.46,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,60.12,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,59.07,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,51.56,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.66,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.88,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,59.8,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,61.89,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,64.21,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,66.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,38.86,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,39.3,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,45.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,74.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,51.45,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.73,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,76.84,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.32,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,61.53,Female
+Breast,N/A,Positive,Negative,Positive,N/A,N/A,NO,86.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.35,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,69.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,47.71,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,48.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,74.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.79,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.22,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,48.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,51.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,59.64,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,33.8,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,96.29,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,84.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.67,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,76.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.41,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,NO,76.35,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,59.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,60.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,84.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.94,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,62.34,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,64.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,46.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,32.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.19,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,53.1,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,76.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,51.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.65,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,60.2,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,48.99,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,38.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.98,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,72.14,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.86,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,38.9,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,62.97,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.04,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.28,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,61.11,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,54.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,YES,38.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,84.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,51.92,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,55.99,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,76.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,26.36,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.71,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,66.95,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,50.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.09,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,56.34,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.12,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,NO,73.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.06,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,67.06,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,79.48,Female
+Breast,N/A,Positive,Positive,Positive,N/A,N/A,NO,85.12,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,NO,69.95,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.5,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.73,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,35.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.65,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,60.89,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,82.87,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,YES,52.43,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.78,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,50.94,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,57.76,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,78.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,61.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,76.24,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,58.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.34,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,59.22,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,54.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.64,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,56.47,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,52.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.68,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,57.41,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,79.61,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.32,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.62,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,68.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.01,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,70.6,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,72.14,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,57.96,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,60.29,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.11,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,62.59,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.98,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.63,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,43.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.3,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.53,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,62.54,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,61.22,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,36.52,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.69,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,30.67,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,34.2,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,69.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.36,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.59,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,47.94,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,44.82,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,60.59,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,28.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.99,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,YES,49.94,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,48.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.85,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,47.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.36,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,30.95,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,NO,66.11,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,38.16,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.32,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,57.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.32,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,56.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,36.8,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.32,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,62.36,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.03,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.38,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,42.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.94,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.35,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.95,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,40.06,Female
+Breast,N/A,Negative,Positive,Negative,N/A,N/A,NO,57.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Positive,N/A,N/A,NO,35.97,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,36.5,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,42.9,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,56.85,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.84,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.48,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,58.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.08,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,60.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,55.8,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,58.85,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,65.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.11,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.65,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,31.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.69,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,36.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.53,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,45.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,59.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.1,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,66.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.18,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.29,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,49.83,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,34.83,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,59.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.93,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,33.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.13,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,YES,45.74,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,37.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.14,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,53.31,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.1,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.08,Female
+Breast,N/A,Positive,Positive,Positive,N/A,N/A,NO,70.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.97,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,36.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,39.07,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,52.67,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.79,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,31.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.67,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,53.99,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,69.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.3,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.86,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.49,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.02,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,56.26,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,64.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.47,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,63.65,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,46.7,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.42,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,50.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.32,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.75,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,60.09,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,50.37,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,39.7,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.83,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.08,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,37.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,60.93,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,YES,46.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.64,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.19,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,67.2,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.17,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,59.53,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,55.3,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,47.74,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.69,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,62.87,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,43.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.7,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,60.29,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.54,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.5,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.68,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,65.58,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.73,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.34,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,58.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,28.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.34,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.06,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,62.39,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,50.26,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,42.17,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,59.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.95,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,43.6,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,58.31,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,44.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.03,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,50.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.81,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.21,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.91,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,59.43,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,63.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.0,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,29.92,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.42,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,42.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.65,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,56.03,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.96,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,33.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,39.4,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,48.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.75,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,48.48,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,57.31,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,56.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.18,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,65.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.5,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,60.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.36,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,61.26,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,38.49,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,40.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.34,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,52.45,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,59.29,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,41.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,55.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.16,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.86,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,37.05,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,38.2,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.67,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.04,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,51.36,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.3,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,21.93,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,56.4,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,68.59,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,60.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,43.58,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,41.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.74,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.09,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,53.5,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,66.91,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,50.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,39.28,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.6,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.56,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.3,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,71.03,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.94,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,48.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.84,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,68.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.85,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Positive,N/A,N/A,YES,51.76,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,55.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.04,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,63.97,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.15,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,68.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.95,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,37.16,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,55.71,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.01,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,49.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,57.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Positive,N/A,N/A,NO,65.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,43.56,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.82,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.37,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,54.29,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.03,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,35.5,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,57.91,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,76.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.51,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.16,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.37,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,64.91,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,73.15,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.36,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Positive,N/A,N/A,NO,63.23,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,76.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,76.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.32,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,56.14,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,82.17,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.24,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,50.23,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,63.17,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,74.45,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,68.55,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,65.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.19,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,73.2,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,54.35,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.05,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.32,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.33,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,43.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.22,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.31,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,60.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.5,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,67.02,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,58.8,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,72.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.01,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,68.25,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,67.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.91,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,80.81,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,68.7,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.17,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,28.04,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,YES,37.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.32,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,55.07,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,68.32,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.0,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,49.61,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,65.49,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,58.8,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.24,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,70.58,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,66.91,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,69.19,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.51,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,58.02,Female
+Breast,N/A,Positive,Positive,Positive,N/A,N/A,NO,51.93,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,72.44,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,63.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,80.04,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,61.22,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,64.12,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,70.75,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,63.34,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,34.36,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,64.5,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,74.98,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,35.14,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.2,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.09,Female
+Breast,N/A,Positive,Negative,Positive,N/A,N/A,NO,61.57,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,35.64,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,70.27,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,59.23,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,55.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.12,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,59.16,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,50.08,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,74.6,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,77.51,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,40.04,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,59.75,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,68.49,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,45.21,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,44.4,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,71.66,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,44.89,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,68.16,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,56.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.01,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,70.84,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,74.84,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,47.29,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.21,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,50.42,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,51.25,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,74.67,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,72.74,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,71.93,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,48.44,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,67.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.83,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,39.14,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,58.38,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,42.79,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,55.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.05,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,39.51,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,40.83,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.88,Female
+Breast,N/A,Positive,Negative,Positive,N/A,N/A,NO,64.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.65,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.03,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.17,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,NO,61.59,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.93,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.27,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,78.21,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,59.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.19,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.67,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,80.82,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.01,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,37.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.11,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,61.97,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,57.98,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,65.58,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.82,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.23,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,64.11,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.66,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.03,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.98,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,71.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.49,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,76.06,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.12,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,49.98,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,79.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.18,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,52.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.79,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.48,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,59.85,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.03,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.12,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,YES,56.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,46.59,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,64.68,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,67.8,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.98,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,43.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.02,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.76,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,60.44,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,65.83,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,75.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.29,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,49.43,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,26.72,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,56.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.18,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,52.29,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,42.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.08,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,52.61,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,64.21,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,50.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,38.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.7,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,38.93,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,45.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.82,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,44.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.86,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,65.86,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,NO,70.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.86,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.39,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,43.85,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,43.73,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.49,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,49.92,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,72.49,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,89.0,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,53.18,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.06,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,44.51,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.83,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.67,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.77,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,43.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,39.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.74,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.88,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,64.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,78.54,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,78.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.44,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.66,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,74.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,86.75,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,63.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.52,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.95,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.8,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,74.56,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,74.29,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.32,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,50.7,Female
+Breast,HER2+,Positive,Positive,Negative,N/A,N/A,NO,43.86,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.03,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.33,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,74.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.69,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,64.47,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,42.45,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,79.35,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,49.34,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,69.68,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,37.05,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.71,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.93,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,43.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,52.09,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,63.95,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,33.04,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.71,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,41.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.63,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,47.61,Female
+Breast,HER2+,Negative,Negative,Negative,N/A,N/A,YES,64.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.03,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,69.87,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,43.51,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.19,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,76.54,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,75.2,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,59.49,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,62.43,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,58.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,50.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.85,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,36.35,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.09,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,33.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.32,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.77,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,65.53,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,69.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.99,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,67.15,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.31,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,70.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.44,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.16,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.03,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.45,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,65.16,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,73.65,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.54,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.89,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.67,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,62.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,41.0,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,76.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.13,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,NO,66.47,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,33.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.54,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.65,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.84,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.61,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,42.84,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,65.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.68,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.36,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.86,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.12,Female
+Breast,HER2+,Negative,Positive,Negative,N/A,N/A,NO,49.88,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.68,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,70.71,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,67.7,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.73,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,45.4,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.42,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,55.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.12,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.04,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,76.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.21,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,52.57,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,39.25,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,61.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.69,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.05,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,75.55,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,41.54,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.4,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,68.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.19,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,47.38,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,52.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.59,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,28.05,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,56.33,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.38,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.63,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.0,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,65.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.95,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.33,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.92,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,32.74,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.86,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,69.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,59.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.06,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,NO,64.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,59.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,43.8,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,57.87,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,40.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.71,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.09,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.14,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.33,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,47.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.72,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.96,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,63.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.61,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.08,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.58,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,38.59,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.22,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,36.04,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,44.59,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.31,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.8,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.14,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,61.55,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,54.61,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,76.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.29,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.19,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,NO,31.87,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,51.08,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,70.68,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.41,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,53.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.04,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,48.76,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,69.23,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.79,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,49.57,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,69.05,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,54.69,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.34,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,42.84,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,65.44,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.24,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,NO,53.07,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,54.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,88.8,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,72.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,52.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.11,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,65.35,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.91,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,50.24,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.45,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,52.43,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,79.17,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.42,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,80.17,Female
+Breast,HER2+,Negative,Negative,Negative,N/A,N/A,YES,74.98,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.11,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,42.11,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.53,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,76.2,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,42.05,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,90.23,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,68.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.56,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,39.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.17,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,61.28,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,74.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.59,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,59.04,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,63.02,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,46.03,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.5,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.2,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.59,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,58.7,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.31,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,72.77,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,41.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.23,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,76.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,40.71,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.33,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,35.78,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.85,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,NO,55.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.18,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.1,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.42,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,82.06,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.86,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,YES,31.71,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.51,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,78.93,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,49.63,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,53.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.53,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,64.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,52.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.4,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,73.01,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,50.6,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.12,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,52.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.7,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,60.96,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.58,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,31.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.01,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,43.04,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,79.26,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,66.94,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.57,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,YES,64.64,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.49,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,54.69,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,68.93,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.44,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,41.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.78,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.37,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.87,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,52.09,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.89,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.88,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,66.7,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,47.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.88,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.89,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.29,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,75.56,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.18,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.55,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,35.14,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,57.99,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,44.0,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.05,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.32,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.86,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,45.33,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.8,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.76,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,37.27,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,57.34,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.72,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,NO,72.18,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.51,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.84,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.16,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.1,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.42,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,85.94,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.43,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,80.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,36.03,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,65.48,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,51.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.45,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,43.61,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.87,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.38,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,61.14,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,45.8,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,64.15,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,71.49,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,68.0,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.14,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.59,Female
+Breast,HER2+,Negative,Positive,Positive,N/A,N/A,YES,53.69,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,83.68,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.36,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,86.04,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,49.91,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.09,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,49.05,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Positive,N/A,N/A,NO,90.08,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,YES,44.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.58,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,51.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.1,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,38.92,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.44,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,66.2,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,YES,36.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,55.57,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.24,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.57,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,54.96,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,64.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.59,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.91,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.58,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,69.83,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,36.01,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,YES,48.1,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.54,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.78,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.61,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,46.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.23,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,57.62,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,YES,40.75,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,44.5,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.3,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,80.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.65,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,42.64,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.56,Female
+Breast,HER2+,Positive,Negative,Negative,N/A,N/A,NO,64.1,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.73,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,NO,54.18,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,86.55,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,38.49,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.2,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,45.42,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,YES,53.48,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,40.21,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.61,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,66.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.64,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,80.09,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,49.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,76.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.11,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.96,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,43.08,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,62.43,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,YES,54.83,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,84.3,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,67.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.77,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.52,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,53.56,Female
+Breast,HER2+,Negative,Positive,Positive,N/A,N/A,YES,35.13,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,YES,42.12,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,44.05,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,76.3,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,YES,64.27,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,38.44,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.95,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.84,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,47.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.63,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.79,Female
+Breast,ER+/HER2- High Prolif,Negative,Negative,Negative,N/A,N/A,NO,68.64,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.82,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.28,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.43,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.55,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.88,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,66.55,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.86,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,46.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.01,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,40.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.88,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.73,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,39.7,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,40.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,80.21,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.87,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.63,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.42,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.99,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,55.43,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,45.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,65.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.36,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,78.55,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,62.7,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,55.53,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,57.2,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.49,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.14,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.64,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.43,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.92,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,51.98,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,68.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.72,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.94,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,67.57,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.76,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.7,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,86.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.65,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,80.33,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,59.22,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,67.46,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,44.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,87.32,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.03,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.0,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,75.63,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.94,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,90.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.28,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.63,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,87.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.76,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,NO,44.65,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,65.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.12,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.64,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.94,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,58.84,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,62.29,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.39,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,36.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.39,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,33.08,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.79,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.79,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,31.6,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,58.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.69,Female
+Breast,N/A,Negative,Positive,Negative,N/A,N/A,NO,43.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.81,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,84.04,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.91,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Positive,N/A,N/A,YES,46.47,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.03,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,YES,58.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,80.59,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,68.59,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,28.29,Female
+Breast,N/A,Negative,Negative,Positive,N/A,N/A,YES,53.45,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,82.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,78.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,38.01,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,39.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,YES,70.76,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,66.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.11,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,YES,54.74,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.99,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.27,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,57.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.6,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.38,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,85.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,79.84,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.6,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,64.55,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,59.47,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,60.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.74,Female
+Breast,HER2+,Negative,Positive,Positive,N/A,N/A,NO,49.5,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,86.29,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,46.23,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.62,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,75.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.95,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,NO,39.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.91,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,38.58,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.08,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,83.09,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,56.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,35.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.44,Female
+Breast,ER-/HER2-,Positive,Positive,Negative,N/A,N/A,NO,70.35,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,41.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,79.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.45,Female
+Breast,ER+/HER2- Low Prolif,Negative,Positive,Negative,N/A,N/A,YES,44.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.01,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.52,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.2,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,41.08,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.01,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,80.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,56.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,82.1,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.81,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,60.75,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.43,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,47.51,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,49.67,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,58.83,Female
+Breast,ER-/HER2-,Negative,Positive,Positive,N/A,N/A,YES,66.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.43,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.37,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,NO,37.33,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.33,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,52.95,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.65,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.35,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,75.62,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,84.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,52.84,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.29,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,47.01,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,58.39,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,51.22,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,48.59,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.69,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.33,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.38,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,79.42,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,64.4,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,36.93,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,43.08,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,53.68,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,75.1,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,73.07,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,67.81,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,85.17,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,YES,58.08,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,74.33,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,52.55,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,62.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.78,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,52.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,81.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,85.02,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,68.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,86.9,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,81.37,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,57.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,80.93,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,76.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.48,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,36.81,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,60.12,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,63.22,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,58.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,82.0,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.2,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,57.77,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,73.42,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,60.77,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.28,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,72.71,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.44,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.2,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.8,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,54.44,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,69.94,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,68.28,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.9,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,60.96,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,30.53,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.57,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.79,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,36.63,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,72.12,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.44,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,44.47,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.61,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,66.66,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,54.92,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,65.22,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,35.27,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,60.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,65.94,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.45,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,74.21,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,60.58,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.36,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.73,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,45.3,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,54.48,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.74,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,57.62,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,78.19,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.32,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.72,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.65,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.24,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,61.39,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Positive,N/A,N/A,NO,76.02,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,36.27,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,48.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,YES,64.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.44,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,45.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.64,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,YES,73.74,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,NO,54.87,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.82,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,YES,72.81,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.81,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,50.55,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.25,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.6,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.77,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.77,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,45.35,Female
+Breast,ER+/HER2- Low Prolif,Negative,Negative,Negative,N/A,N/A,YES,64.24,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,69.64,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,58.95,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,67.6,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,27.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.24,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,54.69,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,51.36,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.4,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.13,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,37.89,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,74.8,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,70.3,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,64.01,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,69.12,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,57.07,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,50.42,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,NO,74.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.5,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.52,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,66.61,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,72.05,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,47.7,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,48.52,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.71,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.67,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,76.25,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.64,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,48.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,60.09,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,80.31,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.56,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.16,Female
+Breast,ER-/HER2-,Positive,Negative,Negative,N/A,N/A,NO,59.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,80.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.85,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.27,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.12,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,40.74,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,66.04,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,55.57,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,NO,80.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,77.17,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.15,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,54.53,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,49.02,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.39,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.97,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.43,Female
+Breast,HER2+,Positive,Positive,Positive,N/A,N/A,NO,71.05,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,72.28,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.04,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,69.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.41,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,56.93,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,64.24,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,58.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,78.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,55.52,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,61.38,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.34,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,44.42,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.98,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,YES,62.97,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.52,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,70.88,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,59.06,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,62.13,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,74.11,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,77.54,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,41.14,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.86,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,50.73,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,60.45,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.34,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.67,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.84,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,YES,43.81,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,49.13,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,28.78,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.33,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,NO,58.56,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.82,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.7,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,67.4,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.63,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,50.51,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.09,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,58.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,48.92,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,49.35,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.45,Female
+Breast,N/A,Positive,Negative,Negative,N/A,N/A,YES,58.75,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,76.65,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,63.71,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,72.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.99,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.58,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.89,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,81.14,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,71.69,Female
+Breast,ER-/HER2-,Negative,Positive,Negative,N/A,N/A,NO,62.07,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,38.17,Female
+Breast,ER-/HER2-,Negative,Negative,Positive,N/A,N/A,YES,43.28,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,48.83,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.26,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.15,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,79.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.61,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,57.87,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,60.07,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,70.97,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,49.61,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,67.88,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,72.66,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.92,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,73.52,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,68.41,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,58.37,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,74.76,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,63.43,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.45,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.46,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,77.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,71.11,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,47.85,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,78.89,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,54.81,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,75.13,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,48.45,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,54.66,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,NO,74.8,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,69.72,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,62.46,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,50.92,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,45.11,Female
+Breast,HER2+,Positive,Negative,Positive,N/A,N/A,YES,52.41,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,83.8,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.89,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.57,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,59.82,Female
+Breast,N/A,Negative,Negative,Negative,N/A,N/A,YES,28.37,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,34.64,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,36.6,Female
+Breast,ER-/HER2-,Negative,Negative,Negative,N/A,N/A,YES,50.84,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,47.47,Female
+Breast,HER2+,Negative,Positive,Positive,N/A,N/A,YES,30.02,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.27,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.78,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,67.89,Female
+Breast,HER2+,Positive,Positive,Negative,N/A,N/A,NO,86.14,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,63.5,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,YES,51.22,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,YES,54.42,Female
+Breast,ER+/HER2- Low Prolif,Positive,Negative,Negative,N/A,N/A,NO,61.23,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,53.14,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,66.48,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Positive,N/A,N/A,NO,63.09,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,55.7,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,51.87,Female
+Breast,HER2+,Negative,Negative,Positive,N/A,N/A,NO,53.87,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,52.9,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,56.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,59.2,Female
+Breast,ER+/HER2- Low Prolif,Positive,Positive,Negative,N/A,N/A,NO,43.1,Female
+Breast,N/A,Positive,Negative,Positive,N/A,N/A,NO,42.88,Female
+Breast,N/A,Positive,Positive,Negative,N/A,N/A,NO,62.9,Female
+Breast,ER+/HER2- High Prolif,Positive,Positive,Negative,N/A,N/A,NO,61.16,Female
+Breast,ER+/HER2- High Prolif,Positive,Negative,Negative,N/A,N/A,NO,60.02,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,55.64,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,82.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,61.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,73.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,66.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,76.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,59.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,80.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,70.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,59.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,76.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,75.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,54.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,87.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,67.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,42.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,89.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,70.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,83.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,36.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,40.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,41.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,70.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,35.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,67.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,56.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,35.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,38.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,75.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,36.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,39.0,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.22,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,44.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.77,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.81,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.1,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,40.84,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.24,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,32.84,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.2,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,38.6,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.65,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,56.49,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,65.7,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.54,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.14,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.63,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,54.84,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.52,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,39.78,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.22,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,41.52,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.13,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.34,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,40.2,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,56.65,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,83.87,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,68.05,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,75.68,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,40.41,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,80.79,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,46.65,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,88.45,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,75.61,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.85,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,43.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.8,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.99,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.93,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,77.73,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.24,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,72.77,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.28,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,82.41,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.13,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,54.59,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.34,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.42,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,79.92,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,46.99,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.54,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.5,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,70.5,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.78,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,44.19,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,40.48,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,74.4,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.09,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.04,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.22,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.19,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.71,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.29,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.55,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,42.57,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.55,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.19,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.48,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.01,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.61,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,67.36,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,49.98,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.15,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.93,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,61.83,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.81,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.24,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.07,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.43,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,86.4,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,35.01,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,76.34,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,46.81,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.83,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,40.86,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,69.75,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.55,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.58,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.61,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.58,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.6,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.95,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.95,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.33,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.39,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,86.17,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,53.21,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,70.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.51,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,74.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.8,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,61.07,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,56.76,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,51.34,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.08,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,86.21,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.5,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,37.79,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,38.26,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,36.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,61.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,44.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,70.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,41.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,42.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,54.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,32.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,56.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,55.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,66.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,40.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,40.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,69.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,61.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,69.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,55.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,55.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,41.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.55,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.88,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,81.55,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,57.07,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,74.13,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,74.05,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,32.87,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.66,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.66,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,81.33,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,72.01,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.42,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.88,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.54,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.27,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.81,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,63.25,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,39.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,35.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,36.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,34.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,56.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,36.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,42.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,39.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,45.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,59.18,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.72,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,74.7,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,78.94,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,74.41,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.33,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,73.15,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,61.18,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.45,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.12,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.97,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.63,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,76.32,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.6,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,55.07,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,36.95,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,50.92,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.01,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.94,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,32.69,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,42.39,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.5,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,86.16,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,79.9,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.69,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.89,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,82.84,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,82.49,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.91,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.47,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,59.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,31.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,46.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,64.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,61.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,56.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,37.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,37.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,37.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,55.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,37.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,60.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,49.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,40.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,42.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,30.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,42.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,41.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,58.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,55.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,40.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,27.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,32.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,36.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,59.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,61.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.05,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.48,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.78,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,60.98,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,86.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.82,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,44.11,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,51.7,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,76.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,40.94,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,43.89,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,61.55,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,81.59,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,76.18,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,35.45,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,64.51,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,71.88,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,37.09,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.41,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.81,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.04,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,78.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,46.14,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,71.74,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,78.27,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.68,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,71.2,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,29.96,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.84,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.02,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,60.55,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,54.27,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,78.29,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,75.92,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,82.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,37.22,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,42.85,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.72,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.7,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,54.02,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,76.7,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,75.3,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,86.69,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.8,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.51,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,71.97,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,32.95,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.69,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.47,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,81.05,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,51.29,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,62.91,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,42.08,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.99,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,48.49,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,59.35,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,40.87,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.92,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.28,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.72,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,69.58,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,47.87,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.42,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,46.21,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,77.97,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,28.83,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,44.04,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,81.42,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.11,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,55.17,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,57.19,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.83,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.74,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,77.09,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,53.73,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.01,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,57.83,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,60.02,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.25,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,50.39,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,72.64,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,72.9,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.24,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,62.36,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.69,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,67.57,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,73.59,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,61.47,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,52.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,47.6,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,35.78,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,43.39,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,73.45,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,55.06,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,33.96,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,47.28,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,45.33,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,43.04,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,59.5,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,58.7,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,72.88,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,77.31,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,55.77,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,68.08,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,71.38,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,28.05,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,66.53,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,73.81,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,36.04,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,65.45,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.94,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.22,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,83.32,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.08,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,46.52,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,52.93,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.16,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,82.56,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,76.22,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,69.0,Female
+Breast,N/A,Negative,N/A,N/A,N/A,N/A,N/A,72.0,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,64.35,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,67.58,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,70.05,Female
+Breast,N/A,Positive,N/A,N/A,N/A,N/A,N/A,63.6,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
+Breast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Female
