@@ -1,3 +1,4 @@
+# Import necessary libraries
 import os
 import numpy as np
 import pandas as pd
@@ -7,16 +8,16 @@ from sklearn.manifold import TSNE
 from sklearn.metrics import classification_report, ConfusionMatrixDisplay, roc_auc_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout
-from tensorflow.keras.optimizers import Adam
+from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from sklearn.model_selection import train_test_split, GridSearchCV, StratifiedKFold
-from sklearn.metrics import classification_report, ConfusionMatrixDisplay
+from sklearn.model_selection import train_test_split, GridSearchCV
 from imblearn.over_sampling import SMOTE
 from sklearn.impute import SimpleImputer
 import joblib
 import shap
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -34,6 +35,9 @@ def load_and_preprocess_data(folder_path):
     label_col = 'Subtype'
     if label_col not in data.columns:
         raise ValueError(f"Label column '{label_col}' not found in dataset.")
+    
+    # Replace nan in labels
+    data[label_col] = data[label_col].fillna('Unknown')
     data[label_col] = data[label_col].astype(str)
 
     # Features and target
@@ -67,27 +71,11 @@ def load_and_preprocess_data(folder_path):
 # Handle class imbalance
 def handle_class_imbalance(X_train, y_train):
     print("Handling class imbalance...")
-    
-    # Check class distribution
-    class_counts = pd.Series(y_train).value_counts()
-    min_class_size = class_counts.min()
-    
-    # Adjust k_neighbors based on the smallest class size
-    k_neighbors = min(5, min_class_size - 1)
-    if k_neighbors < 1:
-        raise ValueError("Too few samples in some classes for SMOTE. Consider removing these classes or using a different method.")
-    
-    print(f"Using k_neighbors={k_neighbors} for SMOTE.")
-    
-    # Apply SMOTE
-    smote = SMOTE(random_state=42, k_neighbors=k_neighbors)
+    smote = SMOTE(random_state=42, k_neighbors=2)
     X_resampled, y_resampled = smote.fit_resample(X_train, y_train)
-    
-    # Print new class distribution
     print(f"Class distribution after SMOTE: {dict(pd.Series(y_resampled).value_counts())}")
     print("Class imbalance handled.")
     return X_resampled, y_resampled
-
 
 # Apply PCA
 def apply_pca(X, n_components=50):
@@ -112,79 +100,79 @@ def apply_tsne(X, y, sample_size=2000):
     plt.title("t-SNE Visualization")
     plt.xlabel("t-SNE Component 1")
     plt.ylabel("t-SNE Component 2")
-    tsne_output_path = os.path.join(MODELS_DIR, 'tsne_visualisation.png')
-    plt.savefig(tsne_output_path)
+    plt.savefig(os.path.join(MODELS_DIR, 'tsne_visualisation.png'))
     plt.show()
-    print(f"t-SNE visualization saved at {tsne_output_path}")
-    print("t-SNE applied.")
+    print("t-SNE visualization saved.")
+    return X_tsne
 
-# Train Neural Network
-def train_neural_network(X_train, y_train, input_dim, num_classes):
+# Hyperparameter tuning
+def tune_hyperparameters(model, param_grid, X_train, y_train):
+    print("Starting hyperparameter tuning...")
+    grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=3, scoring='accuracy', verbose=1)
+    grid_search.fit(X_train, y_train)
+    print("Hyperparameter tuning completed.")
+    return grid_search.best_estimator_
+
+# Train neural network
+def train_neural_network(X_train, y_train, X_val, y_val, input_dim, num_classes):
     print("Training Neural Network...")
     model = Sequential([
-        Dense(128, activation='relu', input_dim=input_dim),
+        Dense(128, activation='relu', input_shape=(input_dim,)),
         Dropout(0.3),
         Dense(64, activation='relu'),
         Dropout(0.3),
         Dense(num_classes, activation='softmax')
     ])
-    model.compile(optimizer=Adam(learning_rate=0.001),
-                  loss='sparse_categorical_crossentropy',
-                  metrics=['accuracy'])
-    model.fit(X_train, y_train, epochs=10, batch_size=32, validation_split=0.2, verbose=1)
+    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    history = model.fit(
+        X_train, y_train,
+        validation_data=(X_val, y_val),
+        epochs=10,
+        batch_size=32,
+        verbose=1
+    )
     print("Neural Network trained.")
     return model
 
-# Hyperparameter tuning
-def tune_hyperparameters(model, param_grid, X_train, y_train):
-    print("Starting hyperparameter tuning...")
-    cv = StratifiedKFold(n_splits=3, shuffle=True, random_state=42)
-    grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=cv, scoring='accuracy', verbose=1)
-    grid_search.fit(X_train, y_train)
-    print("Hyperparameter tuning completed.")
-    return grid_search.best_estimator_
-
-# Evaluate the model
 # Evaluate the model
 def evaluate_model(model, X_test, y_test, label_encoder, is_neural_network=False):
     print("Evaluating model...\n")
-    
-    # Predict probabilities for neural networks, else predict labels directly
-    if is_neural_network:
-        y_proba = model.predict(X_test)
-        y_pred = np.argmax(y_proba, axis=1)  # Convert probabilities to class labels
-    else:
-        y_pred = model.predict(X_test)
-        y_proba = model.predict_proba(X_test) if hasattr(model, "predict_proba") else None
+    # Get predictions
+    y_pred = model.predict(X_test)
 
-    # Get unique classes in the test set
-    unique_classes = np.unique(y_test)
-    target_names = label_encoder.inverse_transform(unique_classes)
+    # Handle neural network predictions (convert probabilities to class indices)
+    if is_neural_network:
+        y_pred = np.argmax(y_pred, axis=1)
+
+    # Get the unique classes in both test and predicted data
+    unique_classes_test = np.unique(y_test)
+    unique_classes_pred = np.unique(y_pred)
+
+    # Get the intersection of classes to handle mismatches
+    valid_classes = np.intersect1d(unique_classes_test, unique_classes_pred)
     
+    # Update target names to only include valid classes
+    target_names = label_encoder.inverse_transform(valid_classes)
+
+    # Generate Classification Report
     print("Classification Report:")
     print(classification_report(
         y_test,
         y_pred,
-        target_names=target_names,
-        labels=unique_classes
+        labels=valid_classes,
+        target_names=target_names
     ))
 
-    # Compute ROC-AUC if probabilities are available
-    if y_proba is not None and y_proba.shape[1] == len(unique_classes):
-        roc_auc = roc_auc_score(y_test, y_proba, multi_class='ovo', labels=unique_classes)
-        print(f"ROC-AUC Score: {roc_auc:.3f}")
-    else:
-        print("Skipping ROC-AUC computation due to mismatched number of classes or missing probabilities.")
-
-    # Plot confusion matrix
-    disp = ConfusionMatrixDisplay.from_predictions(
+    # Plot Confusion Matrix
+    print("\nPlotting Confusion Matrix...")
+    ConfusionMatrixDisplay.from_predictions(
         y_test,
         y_pred,
+        labels=valid_classes,  # Ensure only valid classes are used
         display_labels=target_names,
         cmap='viridis',
         xticks_rotation=90
     )
-    disp.plot()
     plt.title("Confusion Matrix")
     plt.show()
     print("Model evaluation completed.")
@@ -195,10 +183,9 @@ def explain_with_shap(model, X):
     print("Generating SHAP explanations...")
     explainer = shap.TreeExplainer(model)
     shap_values = explainer.shap_values(X)
-    shap.summary_plot(shap_values, X)
-    shap_output_path = os.path.join(MODELS_DIR, 'shap_summary_plot.png')
-    plt.savefig(shap_output_path)
-    print(f"SHAP explanations saved at {shap_output_path}")
+    shap.summary_plot(shap_values, X, show=False)
+    plt.savefig(os.path.join(MODELS_DIR, 'shap_summary_plot.png'))
+    print("SHAP explanations saved.")
 
 # Main pipeline
 if __name__ == "__main__":
@@ -217,12 +204,16 @@ if __name__ == "__main__":
     evaluate_model(best_rf_model, X_test_pca, y_test, le)
     explain_with_shap(best_rf_model, X_test_pca)
 
-    # Train and evaluate Neural Network
-    nn_model = train_neural_network(X_train_pca, y_train, input_dim=X_train_pca.shape[1], num_classes=len(le.classes_))
+    # Save the trained model
+    joblib.dump(best_rf_model, os.path.join(MODELS_DIR, 'rf_model.pkl'))
+    print(f"Random Forest model saved at '{os.path.join(MODELS_DIR, 'rf_model.pkl')}'")
+
+    # Train Neural Network
+    nn_model = train_neural_network(X_train_pca, y_train, X_test_pca, y_test, input_dim=X_train_pca.shape[1], num_classes=len(np.unique(y_train)))
+
     # Evaluate Neural Network
     evaluate_model(nn_model, X_test_pca, y_test, le, is_neural_network=True)
 
-
-    # Save the trained Random Forest model
-    joblib.dump(best_rf_model, os.path.join(MODELS_DIR, 'rf_model.pkl'))
-    print(f"Model saved at '{os.path.join(MODELS_DIR, 'rf_model.pkl')}'")
+    # Save Neural Network
+    nn_model.save(os.path.join(MODELS_DIR, 'nn_model.h5'))
+    print(f"Neural Network model saved at '{os.path.join(MODELS_DIR, 'nn_model.h5')}'")
