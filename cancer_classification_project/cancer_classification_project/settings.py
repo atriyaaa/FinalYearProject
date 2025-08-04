@@ -21,10 +21,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',       # Sessions framework
     'django.contrib.messages',       # Messaging framework
     'django.contrib.staticfiles',    # Static files framework
+    'corsheaders',
+    'rest_framework',
     'classification',                # Your app for cancer classification
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -92,3 +95,10 @@ STATICFILES_DIRS = [BASE_DIR / 'static']  # Custom static files directory (optio
 
 # Default primary key field type
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
+
+DEBUG = True
+
+CORS_ALLOW_ALL_ORIGINS = True

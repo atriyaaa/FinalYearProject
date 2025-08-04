@@ -1,4 +1,4 @@
-from src.data_standardisation import standardise_datasets
+from cancer_classification_project.archive.data_standardisation import standardise_datasets
 
 if __name__ == "__main__":
     # Input and output directories

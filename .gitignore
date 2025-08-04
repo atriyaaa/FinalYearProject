@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite3
+
+# Node.js
+node_modules/
+build/
+dist/
+
+# Models and data
+*.pkl
+*.csv
+/media/
+/models/
+/plots/
+/datasets/
+*.h5
+
+# VSCode
+.vscode/

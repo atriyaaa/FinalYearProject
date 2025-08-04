@@ -1,0 +1,232 @@
+
+
+/* src/Results.css */
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Montserrat:wght@500;600;700&family=Roboto+Mono:wght@400;500&display=swap');
+
+.results-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+  background: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+.results-card {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-radius: 2rem;
+  padding: 3rem;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+  max-width: 1000px;
+  width: 100%;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.results-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  text-align: center;
+  font-size: 2.75rem;
+  font-weight: 800;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  margin-bottom: 2.5rem;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.results-title img {
+  height: 2.5rem;
+  animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 0.8rem;
+}
+
+.results-table th {
+  padding: 1.2rem;
+  text-align: center;
+  background: linear-gradient(135deg, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4);
+  /* background: linear-gradient(135deg, #4a90e2, #2b68c0); */
+  border-radius: 0.8rem;
+  font-size: 1.05rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.results-table td {
+  padding: 1.2rem;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.95);
+  font-size: 1.05rem;
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Rounded corners for table cells */
+.results-table td:first-child {
+  border-top-left-radius: 0.8rem;
+  border-bottom-left-radius: 0.8rem;
+}
+
+.results-table td:first-child {
+  font-weight: 700;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #f0f0f0 !important;
+  color: #333;
+}
+
+
+.results-table td:last-child {
+  border-top-right-radius: 0.8rem;
+  border-bottom-right-radius: 0.8rem;
+}
+
+/* Add subtle border between cells */
+.results-table td:not(:last-child) {
+  border-right: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+/* Row hover effect */
+.results-table tbody tr {
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.results-table tbody tr:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  z-index: 1;
+  position: relative;
+}
+
+.results-table tbody tr:hover td {
+  background: linear-gradient(to right, #f5f7fa, #eef2f7);
+}
+
+/* Cancer type styling with different colors for each type */
+.results-table td:last-child {
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Make sure these color classes override any previous td styling */
+td.cancer-kidney {
+  color: #8a2be2 !important;
+  background-color: #f3e8ff !important;
+}
+
+td.cancer-colorectal {
+  color: #ff6f61 !important;
+  background-color: #fce4ec !important;
+}
+
+td.cancer-prostate {
+  color: #1e90ff !important;
+  background-color: #dbeafe !important;
+}
+
+td.cancer-breast {
+  color: #ff1493 !important;
+  background-color:  #ffe4ec !important;
+}
+
+td.cancer-lung {
+  color: #dc143c !important;
+  background-color:  #ffe5e0 !important;
+}
+
+/* Sample number styling */ 
+.results-table td:first-child {
+  font-weight: 700;
+  font-family: 'Roboto Mono', monospace;
+  background-color: rgba(245, 247, 250, 0.98);
+}
+
+/* Subtype styling */
+.results-table td:nth-child(2) {
+  color: #ab2346;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.results-download {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.results-download a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #ab2346, #d84567);
+  color: white;
+  padding: 0.9rem 2rem;
+  border-radius: 1.2rem;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+.results-download a:hover {
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 10px 25px rgba(171, 35, 70, 0.4);
+}
+
+.results-download a:active {
+  transform: translateY(1px);
+}
+
+/* Adding an animation for new results */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.new-result {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.results-download {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.results-download a {
+  display: inline-block;
+  background: linear-gradient(to right, #ab2346, #d84567);
+  color: white;
+  padding: 0.9rem 2rem;
+  border-radius: 1.2rem;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+
