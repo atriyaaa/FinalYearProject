@@ -11,7 +11,7 @@ SECRET_KEY = 'your-secret-key-here'  # Replace with a strong, unique key
 DEBUG = True  # Set to False in production
 
 # Define allowed hosts (for development, localhost is sufficient)
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ["cancerxai.onrender.com", ".onrender.com", "localhost", "127.0.0.1"]
 
 # Application definition
 INSTALLED_APPS = [
