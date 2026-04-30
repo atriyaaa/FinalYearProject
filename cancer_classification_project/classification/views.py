@@ -311,7 +311,7 @@ def initialize_classes():
         number_to_subtype = {}
 
 # Initialize classes
-initialize_classes()
+# initialize_classes()
 
 def clean_shap_directory():
     """Remove all files from the SHAP directory before generating new ones"""
